@@ -1,0 +1,29 @@
+{
+  "name": "dollar-sense",
+  "version": "1.0.0",
+  "description": "expense tracker app",
+  "main": "servers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm start\" \"npm run client\" "
+  },
+  "keywords": [],
+  "author": "Xiuqi Feng",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "concurrently": "^8.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.4.4",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43582622.css",
+    "main.js": "/static/js/main.c34816c9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/piggybank.png": "/static/media/piggybank.f2a9182832bc505b8580.png",
+    "static/media/dollar-sense-logo.png": "/static/media/dollar-sense-logo.24388470626af11b33b7.png",
+    "index.html": "/index.html",
+    "main.43582622.css.map": "/static/css/main.43582622.css.map",
+    "main.c34816c9.js.map": "/static/js/main.c34816c9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43582622.css",
+    "static/js/main.c34816c9.js"
+  ]
+}
