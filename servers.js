@@ -53,7 +53,7 @@ app.get('*', function (req,res) {
 /* 
     port
 */
-const PORT = 8080 || process.env.port;
+const PORT = 8080 || process.env.PORT;
 
 /* 
     server listen
